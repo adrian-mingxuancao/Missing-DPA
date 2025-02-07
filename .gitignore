@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.DS_Store
+experiment_data/*.RData
+experiment_data/*.csv
+
+# Large data files
+*.soft.gz
+*.zip
+*.csv
+Survey data/*
+Single cell data/*
+
+# Generated files
+*.RData
+analysis_output/*
